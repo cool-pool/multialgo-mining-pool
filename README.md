@@ -1,20 +1,6 @@
 # Mining Pool Setup Service for Bitcoin Cash Coin [sha256] or Any Other Coins of Your Choice or Troubleshoot Existing Pool
 
-### Contact Now & Let Us Get it Done For You Within Few Hours
-
-- [x]   **Email:**  onlinebuybiz@gmail.com
-
-- [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
-
-- [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
-
-- [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
-
-- [x] **QQ:** 256447418 
-
-- [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
-
-Build and Install Bitcoin Cash (BCH) Cryptocurrency Altcoins Mining Pool for Algorithm SHA256 On Yiimp Multi Coins & Multi Algo Mining Pool Software
+Build and Install Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
 We provide altcoin cryptocurrencies mining pool installation and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
